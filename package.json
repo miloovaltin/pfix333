@@ -1,0 +1,16 @@
+{
+"name": "pfix333",
+"theme": "pfix333",
+"version": "2.8.1",
+"description": "pfix333 สมัครสมาชิกเว็บสล็อตเว็บตรง อันดับ 1 ให้เครดิตฟรี",
+"keywords": [
+"pfix333",
+"pfix333 เครดิตฟรี",
+"pfix333 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/pfix333",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
